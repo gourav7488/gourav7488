@@ -32,7 +32,7 @@
 <p align="center">
   <!-- TryHackMe public-profile badge -->
   <a href="https://tryhackme.com/p/spidergk">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/spidergk.png" alt="Your Image Badge" width="200"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/spidergk.png" alt="Your Image Badge" width="400"/>
   </a>
 </p>
 
