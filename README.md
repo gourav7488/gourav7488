@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Gourav Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Gourav+Kumar;Cybersecurity+Enthusiast;Network+Security;Problem+Solver;Bug+Bounty+Hunter;CTF+Player" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Gourav+Kumar;Cybersecurity+Enthusiast;Network+Security;Problem+Solver;Bug+Bounty+Hunter;CTF+Player" />
 </p>
 
 
