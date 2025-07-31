@@ -20,7 +20,9 @@
 <a href="https://x.com/spider_gok">
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-  <a href="gk904424@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
+<a href="mailto:gk904424@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
 </p>
 
 ---
