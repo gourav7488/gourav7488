@@ -57,7 +57,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ashish290&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=gourav7488&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B" alt="GitHub Streak" />
 </p>
 ---
 
