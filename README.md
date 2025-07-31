@@ -57,10 +57,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spidergk&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergk&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=gourav7488&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B" alt="GitHub Streak" />
 </p>
-
 ---
 
 > “Security is not a product, but a process.” – Bruce Schneier
