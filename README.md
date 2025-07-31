@@ -8,9 +8,8 @@
 
 <h1 align="center">Hi, I'm Gourav Kumar 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/spidergk"><img src="https://img.shields.io/badge/GitHub-spidergk-black?logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/gourav-kumar-438670291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="gk904424@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
 </p>
 
 ---
@@ -20,7 +19,7 @@
 <p align="center">
   <!-- TryHackMe public-profile badge -->
   <a href="https://tryhackme.com/p/spidergk">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/spidergk.png" alt="TryHackMe Badge" width="200"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/spidergk.png" alt="Your Image Badge" width="200"/>
   </a>
 </p>
 
