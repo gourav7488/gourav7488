@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🧠 TryHackMe Profile
+
+<a href="https://tryhackme.com/p/spidergk">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/spidergk.png" alt="TryHackMe Badge" />
+</a>
+
