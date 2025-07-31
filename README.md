@@ -57,10 +57,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=gourav7488&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=FF721B&sideNums=FF721B&sideLabels=FF721B" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gourav7488&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourav7488&theme=dark&layout=compact" alt="Top Languages" />
 </p>
