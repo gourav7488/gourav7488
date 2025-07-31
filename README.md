@@ -2,11 +2,15 @@
 **Hi there!** I'm Gourav Kumar, a Cybersecurity Enthusiast 🛡️
 -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spidergk&style=flat-square&color=blue" alt="Profile views" />
-</p>
+
 
 <h1 align="center">Hi, I'm Gourav Kumar 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Gourav+Kumar;Cybersecurity+Enthusiast;Network+Security;Problem+Solver;Bug+Bounty+Hunter;CTF+Player" />
+</p>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gourav-kumar-438670291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
   <a href="gk904424@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
