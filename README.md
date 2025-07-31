@@ -45,7 +45,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="24" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-ff7043?logo=burp-suite&logoColor=white" height="24" />
-  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" height="24" />
+  <img alt="(https://github.com/gourav7488/Gourav/blob/main/Tcpdump%20%26%20Wireshark/Wireshark.pdf)" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" height="24" />
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-003e54?logo=metasploit&logoColor=white" height="24" />
   <img alt="ffuf" src="https://img.shields.io/badge/ffuf-ReconTool-green" height="24" />
   <img alt="ZAP" src="https://img.shields.io/badge/OWASP_ZAP-4479A1?logo=owasp&logoColor=white" height="24" />
