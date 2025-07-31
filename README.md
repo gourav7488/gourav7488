@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## 🧠 TryHackMe Profile
 
 <a href="https://tryhackme.com/p/spidergk">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/spidergk.png" alt="TryHackMe Badge" />
+ <img src="https://tryhackme-badges.s3.amazonaws.com/spidergk.png" alt="Your Image Badge" />
+
 </a>
+
 
