@@ -43,8 +43,8 @@
 - 🎓 **Education:** B.Tech in Computer Science Engineering  
 - 💼 **Role:** Cybersecurity Enthusiast | Bug Bounty Hunter | Penetration Tester  
 - 🌐 **Stack:** Python · Bash · Linux · Burp Suite · Metasploit · ffuf · ZAP · SQL  
-- 🧠 **Training:** Cybersecurity Program by IIT Guwahati & Intellipaat  
-- 🔍 **Interests:** Ethical Hacking · Red Teaming · Network Security · SDLC  
+- 🧠 **Training:** Cybersecurity Program by IIT Roorkee & Intellipaat  
+- 🔍 **Interests:** Ethical Hacking · Red Teaming · Network Security · SDLC · CTF Players
 
 ---
 
