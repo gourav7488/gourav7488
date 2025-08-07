@@ -41,7 +41,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** B.Tech in Computer Science Engineering  
-- 💼 **Role:** Cybersecurity Enthusiast | Bug Bounty Hunter | Penetration Tester  
+- 💼 **Role:** Cybersecurity Enthusiast | Bug Bounty Hunter | Penetration Tester  | Network Engineer 
 - 🌐 **Stack:** Python · Bash · Linux · Burp Suite · Metasploit · ffuf · ZAP · SQL  
 - 🧠 **Training:** Cybersecurity Program by IIT Roorkee & Intellipaat  
 - 🔍 **Interests:** Ethical Hacking · Red Teaming · Network Security · SDLC · CTF Players
